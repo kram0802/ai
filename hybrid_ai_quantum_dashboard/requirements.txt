@@ -1,0 +1,6 @@
+opencv-python
+torch
+pennylane
+streamlit
+pillow
+numpy
